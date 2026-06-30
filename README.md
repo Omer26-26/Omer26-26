@@ -1,16 +1,16 @@
-# Merhaba, ben Ömer
+# Hi, I'm Omer
 
-Yazılım geliştirme tarafında web arayüzleri, masaüstü uygulamaları, otomasyon botları ve görüntü işleme projeleri üzerine çalışıyorum. React/TypeScript ile modern frontend geliştirmeyi, C#/.NET ile otomasyon araçları yazmayı ve Python ile algoritma temelli uygulamalar üretmeyi seviyorum.
+I build web interfaces, desktop applications, automation bots, and algorithm-focused projects. I enjoy working with React and TypeScript for modern frontend development, C#/.NET for practical automation tools, and Python for image processing and algorithm experiments.
 
-## Odaklandığım Alanlar
+## Focus Areas
 
-- React, TypeScript, Vite ve SCSS ile modern web arayüzleri
-- C# / .NET ile konsol uygulamaları ve otomasyon botları
-- Python, NumPy ve görüntü işleme algoritmaları
-- Erişilebilir, responsive ve performanslı kullanıcı arayüzleri
-- API entegrasyonları, bildirim sistemleri ve pratik otomasyon araçları
+- Modern web interfaces with React, TypeScript, Vite, and SCSS
+- Console applications and automation bots with C# / .NET
+- Image processing algorithms with Python and NumPy
+- Accessible, responsive, and performance-oriented user interfaces
+- API integrations, notification systems, and practical developer tools
 
-## Teknolojiler
+## Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -21,34 +21,40 @@ Yazılım geliştirme tarafında web arayüzleri, masaüstü uygulamaları, otom
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Öne Çıkan Projeler
+## Featured Projects
 
-### Mini Landing + Bileşen Kütüphanesi
+### Mini Landing + Component Library
 
-React, TypeScript, Vite ve SCSS ile geliştirilmiş modern landing page ve bileşen kütüphanesi. Button, Input, Card, Modal ve Accordion gibi bileşenler harici UI kütüphanesi kullanılmadan geliştirildi.
+A modern landing page and component library built with React, TypeScript, Vite, and SCSS. The project includes custom Button, Input, Card, Modal, and Accordion components built without an external UI library.
 
-Repo: [Omer26-26/enoca](https://github.com/Omer26-26/enoca)
+Repository: [Omer26-26/enoca](https://github.com/Omer26-26/enoca)
 
-### TCDD Tren Bileti Botu
+### TCDD Train Ticket Bot
 
-TCDD e-Bilet üzerinde seçilen rota ve tarih için boş ekonomi koltuğu takibi yapan .NET 8 konsol uygulaması. Playwright ile sefer bilgilerini yakalar, belirli aralıklarla kontrol eder ve boş koltuk bulunduğunda Telegram bildirimi gönderebilir.
+A .NET 8 console application that monitors empty economy seats for selected routes and dates on the TCDD e-ticket platform. It captures trip data with Playwright, checks availability at regular intervals, and can send Telegram notifications when seats become available.
 
-Repo: [Omer26-26/TCDD_Tren_Bileti_Botu](https://github.com/Omer26-26/TCDD_Tren_Bileti_Botu)
+Repository: [Omer26-26/TCDD_Tren_Bileti_Botu](https://github.com/Omer26-26/TCDD_Tren_Bileti_Botu)
 
-### Görüntü İşleme Projesi
+### Image Processing Application
 
-Python, NumPy, Pillow, Matplotlib ve CustomTkinter ile geliştirilmiş masaüstü görüntü işleme uygulaması. Gri seviye, thresholding, histogram işlemleri, filtreler, kenar bulma ve morfolojik işlemler gibi algoritmaları içerir.
+A desktop image processing application built with Python, NumPy, Pillow, Matplotlib, and CustomTkinter. It includes grayscale conversion, thresholding, histogram operations, filters, edge detection, and morphological operations.
 
-Repo: [Omer26-26/goruntu_son](https://github.com/Omer26-26/goruntu_son)
+Repository: [Omer26-26/goruntu-isleme](https://github.com/Omer26-26/goruntu-isleme)
 
-## GitHub İstatistikleri
+### TuringLab
+
+A Turing machine simulator developed for a Computation Theory course. It supports deterministic, multi-tape, and nondeterministic Turing machines, along with tests, analysis scripts, and visualization outputs.
+
+Repository: [Omer26-26/turinglab-omer-atci](https://github.com/Omer26-26/turinglab-omer-atci)
+
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Omer26-26&show_icons=true&theme=transparent&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omer26-26&layout=compact&theme=transparent&hide_border=true)
 
-## İletişim
+## Contact
 
 - GitHub: [Omer26-26](https://github.com/Omer26-26)
-- E-posta: omeratc26@gmail.com
+- Email: omeratc26@gmail.com
 

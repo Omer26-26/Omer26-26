@@ -1,10 +1,10 @@
-# Hi, I'm Omer
+# Hi, I'm Ömer
 
-I build web interfaces, desktop applications, automation bots, and algorithm-focused projects. I enjoy working with React and TypeScript for modern frontend development, C#/.NET for practical automation tools, and Python for image processing and algorithm experiments.
+I build web interfaces, desktop applications, automation bots, and algorithm-focused projects. I enjoy working with React for modern frontend development, C#/.NET for practical automation tools, and Python for image processing and algorithm experiments.
 
 ## Focus Areas
 
-- Modern web interfaces with React, TypeScript, Vite, and SCSS
+- Modern web interfaces with React and SCSS
 - Console applications and automation bots with C# / .NET
 - Image processing algorithms with Python and NumPy
 - Accessible, responsive, and performance-oriented user interfaces
